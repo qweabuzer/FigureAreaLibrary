@@ -1,0 +1,12 @@
+C:\Users\Ilumi\source\repos\FigureArea\bin\Debug\net7.0\FigureArea.deps.json
+C:\Users\Ilumi\source\repos\FigureArea\bin\Debug\net7.0\FigureArea.dll
+C:\Users\Ilumi\source\repos\FigureArea\bin\Debug\net7.0\FigureArea.pdb
+C:\Users\Ilumi\source\repos\FigureArea\obj\Debug\net7.0\FigureArea.csproj.AssemblyReference.cache
+C:\Users\Ilumi\source\repos\FigureArea\obj\Debug\net7.0\FigureArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ilumi\source\repos\FigureArea\obj\Debug\net7.0\FigureArea.AssemblyInfoInputs.cache
+C:\Users\Ilumi\source\repos\FigureArea\obj\Debug\net7.0\FigureArea.AssemblyInfo.cs
+C:\Users\Ilumi\source\repos\FigureArea\obj\Debug\net7.0\FigureArea.csproj.CoreCompileInputs.cache
+C:\Users\Ilumi\source\repos\FigureArea\obj\Debug\net7.0\FigureArea.dll
+C:\Users\Ilumi\source\repos\FigureArea\obj\Debug\net7.0\refint\FigureArea.dll
+C:\Users\Ilumi\source\repos\FigureArea\obj\Debug\net7.0\FigureArea.pdb
+C:\Users\Ilumi\source\repos\FigureArea\obj\Debug\net7.0\ref\FigureArea.dll
